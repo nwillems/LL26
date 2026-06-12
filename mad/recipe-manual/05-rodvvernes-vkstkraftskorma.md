@@ -1,40 +1,55 @@
 ---
-title: "Vindvandrernes majsbrisepandekager"
-origin: "recipe.pdf#page-3"
-page: 3
+title: "Rodvævernes vækstkraftskorma"
+origin: "recipe.pdf#page-7"
 pdf: "recipe.pdf"
+portions: 4
+spices:
+  - Karry - 5 g
+  - Kardemomme, stødt - 2 g
+  - Spidskommen, stødt - 3 g
+  - Gurkemeje - 3 g
+  - Koriander, stødt - 3 g
+  - Kanel - 2,5 g
+  - Salt -
+  - Peber -
 ingredients:
-  krydderier:
-    - Chilli, tørret - 0,5 tsk.
-    - Salt -
-  overige:
-    - Sorte bønner i dåse - 2 ds.
-    - Majs på dåse - 0,5 ds.
+  - Chili, frisk - 2 g
+  - Løg - 2 stk
+  - Hvidløg - 2 fed
+  - Ingefær - 10 g
+  - Hakkede tomater - 1 ds
+  - Kokosmælk - 1 ds
+  - Græsk yoghurt - 1 dl
+  - Blomkål - 320 g
+  - Kikærter - 0,8 ds
+  - Citronsaft
+  - Olie
+  - Ris - 300 g
+  - Vand - 600 ml
+  - Naanbrød - 2 stk
 ---
 
-# Vindvandrernes majsbrisepandekager
+# Fremgangsmåde
 
-## Fremgangsmåde
+## Ris
 
-### Steps
+1. Skyl risene
+2. Bring saltet vand i kog i en gryde
+3. Put ris i det kogende vand
+4. Lad risene trække i 10min
 
-1. 1. Start med at hakke løg og hvidløg fint og peberfrugt i strimler.
-2. 2. Kom olivenolie i en gryde, og skru op for varmen.
-3. 3. Steg finthakket løg og hvidløg ved middelvarme, og tilsæt finthakket chili efter smag.
-4. 4. Derefter tilsættes peberfrugt og bønnerne samt den væske, de ligger i, spidskommen, salt, peber og citronsaft.
-5. 5. Lad bønnerne simre ved lav varme i 20-30 min.
-6. 6. Bønnerne skal være ret udkogte, så massen ikke er våd, så det er lettere at styre i pandekagen.
-7. 7. Tilføj majs, og lad simre yderligere 5 min.
-8. 8. Kom fyldet i de varmede pandekager.
-9. 9. Server med majssalat, salsa, ost og creme fraiche.
+## Korma
 
-## Majssalat
-
-### Steps
-
-1. 1. Åben majsdåserne, og lad dem dryppe af.
-2. 2. Skær tomat, spidskål, agurker og løg i mundrette stykker.
-3. 3. I en stor skål blandes majs, tomater, agurker og rødløg efter smag.
-4. 4. Dryp olivenolie og æblecidereddike over salaten.
-5. 5. Krydr generøst med salt og peber efter smag, og bland godt sammen.
-6. 6. Lige inden servering drysses friske krydderurter over, og bland det hele sammen.
+1. Klargør grøntsagerne
+2. Hak løg i mindre stykker, hak hvidløg fint, hak chili og hak ingefær fint
+3. Skær blomkål i mindre buketter
+4. Skyl kikærterne
+5. Varm olie i en stor pande eller gryde
+6. Svits løg og hvidløg, til løgene er klare
+7. Tilsæt ingefær, steg 1 minut
+8. Tilsæt krydderiblandingen, samt chili
+9. Tilsæt hakkede tomater, kokosmælk og yoghurt
+10. Rør retten godt sammen
+11. Tilsæt blomkål og kikærter
+12. Lad retten simre til blomkålen er mør, men stadig har bid
+13. Smag til med citronsaft og salt

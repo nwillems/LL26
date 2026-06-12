@@ -1,7 +1,6 @@
 ---
 title: "Vindvandrernes majsbrisepandekager"
 origin: "recipe.pdf#page-3"
-page: 3
 pdf: "recipe.pdf"
 portions: 4
 ingredients:

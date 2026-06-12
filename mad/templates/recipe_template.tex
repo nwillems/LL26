@@ -1,0 +1,52 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{geometry}
+\usepackage{multicol}
+\usepackage{enumitem}
+\usepackage{parskip}
+
+\def\tightlist{}
+
+% Page layout
+\geometry{a4paper, margin=0.5in}
+\setlength{\columnsep}{1cm}
+
+% Custom styling
+\title{$title$}
+\author{}
+\date{}
+
+\begin{document}
+
+%\maketitle
+
+% Title and portions
+\section*{\Large $title$}
+\subsection*{\normalsize Portions: $portions$}
+
+% Two-column layout for spices and ingredients
+\begin{multicols}{2}
+$if(spices)$
+\textbf{Krydeerier:}
+\begin{itemize}[noitemsep,topsep=0pt]
+$for(spices)$
+\item $spices$
+$endfor$
+
+\end{itemize}
+$endif$
+
+\columnbreak
+
+\textbf{Ingredients:}
+\begin{itemize}[noitemsep,topsep=0pt]
+$for(ingredients)$
+\item $ingredients$
+$endfor$
+
+\end{itemize}
+\end{multicols}
+
+$body$
+
+\end{document}
