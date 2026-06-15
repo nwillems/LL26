@@ -28,7 +28,7 @@ ingredients:
     - Citronsaft
 ---
 
-# Stjernepejlernes nordlys-Saag Aloo
+# Fremgangsmåde
 
 ## Saag Aloo
 

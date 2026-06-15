@@ -24,7 +24,7 @@ ingredients:
     - Svin i tern - 600 g
 ---
 
-# Kredsløberne Tandhjulstortellinigryde
+# Fremgangsmåde
 
 1. Vask alle grøntsager
 2. Hak bladselleri, løg, hvidløg og champignon i små tern

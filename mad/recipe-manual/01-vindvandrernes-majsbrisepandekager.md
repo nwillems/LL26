@@ -30,11 +30,9 @@ ingredients:
     - Dild - 0,25 potte
 ---
 
-# Vindvandrernes majsbrisepandekager
+# Fremgangsmåde
 
-## Fremgangsmåde
-
-### Majssalat
+## Majssalat
 
 1. Åben majsdåserne, og lad dem dryppe af.
 2. Skær tomat, spidskål, agurker og løg i mundrette stykker.
@@ -43,7 +41,7 @@ ingredients:
 5. Krydr generøst med salt og peber efter smag, og bland godt sammen.
 6. Lige inden servering drysses friske krydderurter over, og bland det hele sammen.
 
-### Fyld
+## Fyld
 
 1. Start med at hakke løg og hvidløg fint og peberfrugt i strimler.
 2. Kom olivenolie i en gryde, og skru op for varmen.

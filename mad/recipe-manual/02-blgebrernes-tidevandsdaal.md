@@ -25,9 +25,9 @@ ingredients:
     - Naan brød - 2 stk
 ---
 
-# Bølgebærernes tidevandsdaal
+# Fremgangsmåde
 
-### Perlebyg
+## Perlebyg
 
 1. Bring en gryde vand i kog - 2 dele vand til 1 del perlebyg
 2. Tilsæt perlebyg til det kogendevand
