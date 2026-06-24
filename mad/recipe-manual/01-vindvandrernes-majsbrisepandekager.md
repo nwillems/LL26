@@ -3,31 +3,30 @@ title: "Vindvandrernes majsbrisepandekager"
 origin: "recipe.pdf#page-3"
 pdf: "recipe.pdf"
 portions: 4
+spices:
+  - Spidskommen - 1 tsk.
+  - Chilli, tørret - 0,5 tsk.
+  - Salt -
+  - Peber -
+  - Citronsaft - 1 spsk.
 ingredients:
-  krydderier:
-    - Spidskommen - 1 tsk.
-    - Chilli, tørret - 0,5 tsk.
-    - Salt -
-    - Peber -
-    - Citronsaft - 1 spsk.
-  overige:
-    - Sorte bønner i dåse - 2 ds.
-    - Majs på dåse - 1,5 ds.
-    - Peberfrugt - 1 stk.
-    - Hvidløg - 1 fed
-    - Løg - 1 stk.
-    - Mexikanske pandekager - 8 stk.
-    - Creme fraiche 18% - 250 g
-    - Salsa, glas - 100 g
-    - Revet cheddar - 160 g
-    - Tomater - 2 stk.
-    - Agurk - 1 stk.
-    - Spidskål - 200 g
-    - Rødløg - 0,5 stk.
-    - Olivenolie - 42 ml
-    - Æblecider edike - 45 ml
-    - Persille - 0,25 potte
-    - Dild - 0,25 potte
+  - Sorte bønner i dåse - 2 ds.
+  - Majs på dåse - 1,5 ds.
+  - Peberfrugt - 1 stk.
+  - Hvidløg - 1 fed
+  - Løg - 1 stk.
+  - Mexikanske pandekager - 8 stk.
+  - Creme fraiche 18% - 250 g
+  - Salsa, glas - 100 g
+  - Revet cheddar - 160 g
+  - Tomater - 2 stk.
+  - Agurk - 1 stk.
+  - Spidskål - 200 g
+  - Rødløg - 0,5 stk.
+  - Olivenolie - 42 ml
+  - Æblecider edike - 45 ml
+  - Persille - 0,25 potte
+  - Dild - 0,25 potte
 ---
 
 # Fremgangsmåde

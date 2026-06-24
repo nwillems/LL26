@@ -3,26 +3,25 @@ title: "Bølgebærernes tidevandsdaal"
 origin: "recipe.pdf#page-4"
 pdf: "recipe.pdf"
 portions: 4
+spices:
+  - Gurkemeje - 3g
+  - Tørret koriander - 3g
+  - Spidskommen - 3g
+  - Paprika - 3g
+  - Garam Masala - 3g
+  - Satl
+  - Peber
 ingredients:
-  krydderier:
-    - Gurkemeje - 3g
-    - Tørret koriander - 3g
-    - Spidskommen - 3g
-    - Paprika - 3g
-    - Garam Masala - 3g
-    - Satl
-    - Peber
-  overige:
-    - Løg - 2 stk
-    - Hvidløg - 4 fed
-    - Frisk ingefær - 8 g
-    - Røde linser - 300 g
-    - Grøntsagsboillon terning - 1 stk
-    - Vand - 780 ml
-    - Kokosmælk - 0,5 ds
-    - Hakkede Tomater - 0,5 ds
-    - Perlebyg - 300 g
-    - Naan brød - 2 stk
+  - Løg - 2 stk
+  - Hvidløg - 4 fed
+  - Frisk ingefær - 8 g
+  - Røde linser - 300 g
+  - Grøntsagsboillon terning - 1 stk
+  - Vand - 780 ml
+  - Kokosmælk - 0,5 ds
+  - Hakkede Tomater - 0,5 ds
+  - Perlebyg - 300 g
+  - Naan brød - 2 stk
 ---
 
 # Fremgangsmåde

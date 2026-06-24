@@ -3,25 +3,24 @@ title: "Kredsløberne Tandhjulstortellinigryde"
 origin: "recipe.pdf#page-5"
 pdf: "recipe.pdf"
 portions: 4
+spices:
+  - Rosmarin - 3 g
+  - Oregano - 3 g
+  - Paprika - 5 g
+  - MSG - 2 g
+  - Grøntsagsboillon terning - 1,5 stk
+  - Salt
+  - Peber
 ingredients:
-  krydderier:
-    - Rosmarin - 3 g
-    - Oregano - 3 g
-    - Paprika - 5 g
-    - MSG - 2 g
-    - Grøntsagsboillon terning - 1,5 stk
-    - Salt
-    - Peber
-  overige:
-    - Gulerødder - 4 stk
-    - Løg - 2 stk
-    - Hvidløg - 2 fed
-    - Bladselleri - 0,8 bdt
-    - Champignon - 50 g
-    - Kokosmælk - 1 ds
-    - Tortellini - 1 pk
-    - Vand - 225 ml
-    - Svin i tern - 600 g
+  - Gulerødder - 4 stk
+  - Løg - 2 stk
+  - Hvidløg - 2 fed
+  - Bladselleri - 0,8 bdt
+  - Champignon - 50 g
+  - Kokosmælk - 1 ds
+  - Tortellini - 1 pk
+  - Vand - 225 ml
+  - Svin i tern - 600 g
 ---
 
 # Fremgangsmåde

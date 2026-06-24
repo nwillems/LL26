@@ -1,4 +1,4 @@
-\documentclass{article}
+\documentclass[twoside]{article}
 \usepackage[utf8]{inputenc}
 \usepackage{geometry}
 \usepackage{multicol}
@@ -6,6 +6,7 @@
 \usepackage{parskip}
 
 \def\tightlist{}
+
 
 % Page layout
 \geometry{a4paper, margin=0.5in}
@@ -18,8 +19,6 @@
 
 \begin{document}
 
-%\maketitle
-
 % Title and portions
 \section*{\Large $title$}
 \subsection*{\normalsize Portions: $portions$}
@@ -27,7 +26,7 @@
 % Two-column layout for spices and ingredients
 \begin{multicols}{2}
 $if(spices)$
-\textbf{Krydeerier:}
+\textbf{Krydderier:}
 \begin{itemize}[noitemsep,topsep=0pt]
 $for(spices)$
 \item $spices$
@@ -38,7 +37,7 @@ $endif$
 
 \columnbreak
 
-\textbf{Ingredients:}
+\textbf{Ingredienser:}
 \begin{itemize}[noitemsep,topsep=0pt]
 $for(ingredients)$
 \item $ingredients$
@@ -48,5 +47,14 @@ $endfor$
 \end{multicols}
 
 $body$
+
+% Force a second page if there is none
+\clearpage
+\ifnum\thetotalpages<2
+\newpage
+\null
+\clearpage
+\fi
+
 
 \end{document}

@@ -3,29 +3,28 @@ title: "Stjernepejlernes nordlys-Saag Aloo"
 origin: "recipe.pdf#page-6"
 pdf: "recipe.pdf"
 portions: 4
+spices:
+  - Spidskommen - 5 g
+  - Gurkemeje - 5 g
+  - Garam masala - 5 g
+  - Koriander stødt - 5 g
+  - Chili flager - 2 g
+  - Salt
+  - Pebe
+  - Spidskommen, raita - 2 g
 ingredients:
-  krydderier:
-    - Spidskommen - 5 g
-    - Gurkemeje - 5 g
-    - Garam masala - 5 g
-    - Koriander stødt - 5 g
-    - Chili flager - 2 g
-    - Salt
-    - Pebe
-    - Spidskommen, raita - 2 g
-  overige:
-    - Kartofler - 500 g
-    - Kikærter - 1,66 ds
-    - Frisk spinat - 200 g
-    - Løg - 1 stk
-    - Hvidløg - 2 stk
-    - Friskrevet ingefær - 15 g
-    - Olie
-    - Yoghurt naturel - 2 dl
-    - Agurk - 200 g
-    - Frisk koriander - 0,25 bdt
-    - Mynte - 0,25 bdt
-    - Citronsaft
+  - Kartofler - 500 g
+  - Kikærter - 1,66 ds
+  - Frisk spinat - 200 g
+  - Løg - 1 stk
+  - Hvidløg - 2 stk
+  - Friskrevet ingefær - 15 g
+  - Olie
+  - Yoghurt naturel - 2 dl
+  - Agurk - 200 g
+  - Frisk koriander - 0,25 bdt
+  - Mynte - 0,25 bdt
+  - Citronsaft
 ---
 
 # Fremgangsmåde

@@ -1,40 +1,40 @@
 ---
-title: "Vindvandrernes majsbrisepandekager"
-origin: "recipe.pdf#page-3"
-page: 3
-pdf: "recipe.pdf"
+title: "Flammepusternes aftenildsshakshouka"
+origin: "recipe.pdf#page-11"
+portions: 4
+spices:
+  - Spidskommen - 2 tsk
+  - Kardekomme - 1 tsk
+  - Kanel - 1 tsk
+  - Gurkemeje - 1 tsk
+  - Røget paprika - 1 tsk
+  - Salt -
+  - Peber -
+  - Grøntsagsboillon - 1 stk
 ingredients:
-  krydderier:
-    - Chilli, tørret - 0,5 tsk.
-    - Salt -
-  overige:
-    - Sorte bønner i dåse - 2 ds.
-    - Majs på dåse - 0,5 ds.
+  - Løg - 1 stk
+  - Hvidløg - 2 fed
+  - Squash - 1 srk
+  - Hakket tomat - 2 ds
+  - Peberfrugt - 2 stk
+  - Orzo eller Risoni - 300 g
+  - Olie
+  - æg - 4 stk
+  - Fetaost - 100 g
 ---
 
-# Vindvandrernes majsbrisepandekager
+# Fremgangsmåde
 
-## Fremgangsmåde
+1. Skær løg og peberfrugter i tynde strimler
+2. Hak hvidløg fint
+3. Rist spidskommen, kardemomme, kanel, gurkemeje og røget paprika - 1-2 min til det dufter
+4. Tilsæt olie, løg, hvidløg og peberfrugt
+5. Svits indtil grøntsagerne er bløde
+6. Tilsæt hakkede tomater og bouillonterning
+7. Bring retten i kog
+8. Tilsæt orzo/risoni
+9. Lad retten simre til pastaen er al dente
+10. Tilsæt vand efter behov
+11. Server retten med smilende æg og toppet med feta
 
-### Steps
-
-1. 1. Start med at hakke løg og hvidløg fint og peberfrugt i strimler.
-2. 2. Kom olivenolie i en gryde, og skru op for varmen.
-3. 3. Steg finthakket løg og hvidløg ved middelvarme, og tilsæt finthakket chili efter smag.
-4. 4. Derefter tilsættes peberfrugt og bønnerne samt den væske, de ligger i, spidskommen, salt, peber og citronsaft.
-5. 5. Lad bønnerne simre ved lav varme i 20-30 min.
-6. 6. Bønnerne skal være ret udkogte, så massen ikke er våd, så det er lettere at styre i pandekagen.
-7. 7. Tilføj majs, og lad simre yderligere 5 min.
-8. 8. Kom fyldet i de varmede pandekager.
-9. 9. Server med majssalat, salsa, ost og creme fraiche.
-
-## Majssalat
-
-### Steps
-
-1. 1. Åben majsdåserne, og lad dem dryppe af.
-2. 2. Skær tomat, spidskål, agurker og løg i mundrette stykker.
-3. 3. I en stor skål blandes majs, tomater, agurker og rødløg efter smag.
-4. 4. Dryp olivenolie og æblecidereddike over salaten.
-5. 5. Krydr generøst med salt og peber efter smag, og bland godt sammen.
-6. 6. Lige inden servering drysses friske krydderurter over, og bland det hele sammen.
+Alternativt, hvis du har låg til panden/gryden, kan du slå ægene ud i retten de sidste 5-10min af kogetiden.
