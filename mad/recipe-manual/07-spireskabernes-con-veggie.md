@@ -15,7 +15,7 @@ spices:
 ingredients:
   - Rødløg - 1,5 stk
   - Hvidløg - 2 fed
-  - Squash - 1 srk
+  - Squash - 1 stk
   - Bladselleri, stængler - 1,5 stk
   - Aubergine - 1 stk
   - Soltørret tomater - 3 spsk
