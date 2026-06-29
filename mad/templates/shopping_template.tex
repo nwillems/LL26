@@ -1,0 +1,50 @@
+\documentclass[14pt]{extarticle}
+\usepackage[utf8]{inputenc}
+\usepackage{geometry}
+\usepackage{multicol}
+% \usepackage{enumitem}
+\usepackage{parskip}
+
+
+\usepackage{enumitem,amssymb}
+
+\def\tightlist{}
+
+\newcommand{\checkbox}{$$\square$$}
+\newlist{todolist}{itemize}{2}
+\setlist[todolist]{label=\checkbox, leftmargin=4pt, topsep=8pt}
+
+% Page layout
+\geometry{a4paper, margin=0.5in}
+\setlength{\columnsep}{1cm}
+
+% Custom styling
+\title{$title$}
+\author{}
+\date{}
+
+\begin{document}
+
+% Title and portions
+\section*{\Large $title$}
+
+\textbf{Ingredienser:}t
+\begin{todolist} %[noitemsep,topsep=0pt]
+$for(ingredients)$
+\item \rule{3cm}{0.15mm} $ingredients$
+$endfor$
+
+\end{todolist}
+
+
+$if(spices)$
+\textbf{Krydderier:}
+\begin{itemize}[noitemsep,topsep=0pt]
+$for(spices)$
+\item $spices$
+$endfor$
+
+\end{itemize}
+$endif$
+
+\end{document}
