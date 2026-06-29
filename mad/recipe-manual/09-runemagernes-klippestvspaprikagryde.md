@@ -27,3 +27,18 @@ ingredients:
 3. Bring saltet vand i kog
 4. Tilsæt kartofler
 5. Kog kartoflerne til de er møre
+
+# Paprikagryde
+
+1. Dræn og skyl kidneybønner
+2. Hak løg, hvidløg, squash og peberfrugt fint
+3. Skræl gulerødder og riv/skær dem fint
+4. Rist sød paprika og røget paprika på panden - 1-2min til det dufter
+5. Tilsæt olie
+6. Tilsæt løg og hvidløg - svits til løgene er klare
+7. Tilsæt squash, peberfrugt og gulerødder
+8. Steg grøntsagerne 2-4min
+9. Tilsæt tomatpure og steg til den dufter
+10. Tilsæt fløde og kidneybønner, salt og peber
+11. Lad retten simre til grøntsagerne er møre
+12. Smag til med ekstra paprika, salt og peber
